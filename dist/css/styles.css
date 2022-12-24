@@ -1423,6 +1423,17 @@ progress {
     width: 100%;
   }
 
+  .col-lg-13 {
+    flex: 0 0 60%;
+    width: auto;
+  }
+
+  div.a {
+    text-indent: 50px;
+    --bs-text-opacity: 1;
+    color: #6c757d !important;
+  }
+
   .offset-lg-0 {
     margin-left: 0;
   }
